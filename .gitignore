@@ -1,0 +1,5 @@
+robot_sim
+*.o
+__pycache__/
+*.pyc
+trajectory.csv
